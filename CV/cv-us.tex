@@ -1,0 +1,291 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Romit Maulik}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+%\def\footerlink{http://jblevins.org/projects/cv-template/}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {CFD,HPC,Numerical methods},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  \href{http://www.mcs.anl.gov/}{Argonne Leadership Computing Facility} \\
+  Building 240, Argonne National Laboratory \\
+  9700 Cass Avenue, Lemont, IL 60439
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    Phone: & (405) 982-0161 \\
+    %Fax: &  (919) 962-5678 \\
+    Email: & \href{mailto:rmaulik@anl.gov}{\tt rmaulik@anl.gov} \\
+    Homepage: & \href{https://romit-maulik.github.io/}{\tt romit-maulik.github.io} \\
+  \end{tabular}
+\end{minipage}
+
+
+\section*{Education}
+
+\begin{itemize}
+  \item PhD. Mechanical \& Aerospace Engineering, Oklahoma State University, 2019.
+  \item M.S. Mechanical \& Aerospace Engineering, Oklahoma State University, 2015.
+  \item B.E. Mechanical Engineering, BIT Mesra - India, 2012. 
+\end{itemize}
+
+\section*{Professional experience}
+
+\begin{itemize}
+\item Margaret Butler Postdoctoral Fellow - ALCF, Argonne National Laboratory, Jun, 2019 - Present.
+\item Pre-doctoral Appointee - MCS, Argonne National Laboratory, Jan, 2019 - May, 2019
+\item GRA - Computational Fluid Dynamics Laboratory, Oklahoma State University, Jan, 2016 - May, 2019.
+\item GRA - Computational Biomechanics Laboratory, Oklahoma State University, Aug, 2013 - July, 2015.
+\item GTA - Mechanical \& Aerospace Engineering, Oklahoma State University, Jan, 2013 - Dec, 2018.
+\item Design Engineer - Tata Technologies Limited, Pune, Aug,2012 - Aug,2013.
+\end{itemize}
+
+\section*{Research interests}
+
+\begin{itemize}
+    \item Scaleable scientific machine learning for domain-specific applications.
+    \item Numerical methods for turbulence closures and reduced-order modeling.
+    \item High-performance computing.
+\end{itemize}
+
+\section*{Projects}
+
+\begin{enumerate}
+    \item \textbf{Romit Maulik} (PI), Turb-Net: Scaleable physics-informed deep learning for turbulence model development, Director's discretionary resource allocation, Argonne Leadership Computing Facility, Argonne National Laboratory.
+\end{enumerate}
+
+\section*{Publications}
+
+\subsection*{In progress}
+
+\begin{enumerate}
+
+\item \textbf{R. Maulik}, A. Mohan, B. Lusch, S. Madireddy, P. Balaprakash: Time-series learning of latent-space dynamics for reduced-order model closure, {\it arXiv preprint : 1906.07815}.
+
+\item \textbf{R. Maulik}, O. San, J. Jacob: Connecting implicit and explicit large eddy simulations of two-dimensional turbulence through machine learning, {\it arXiv preprint : 1901.09329}.
+
+\item B. Narayanan, \textbf{R. Maulik}, M. Zhou, H. Doana, P. Balaprakash, L. A. Curtiss, R. S. Assary: Protonation of Bio-oil Components from Accurate First principles Simulations and Graph-based neural networks.
+
+\item \textbf{R. Maulik}, V. Rao, S. Madireddy, B. Lusch, P. Balaprakash: Using recurrent neural networks for nonlinear term computation in advection-dominated dynamical systems. {\it In preparation}
+
+\item \textbf{R. Maulik}, S. Madireddy, B. Lusch, P. Balaprakash, S. Wild: Generative reduced-order models with adaptive augmentation of training data. {\it In preparation}
+
+\item \textbf{R. Maulik}, B. Lusch, S. Madireddy, P. Balaprakash: Precise predictions of nonlinear dynamical systems using time-delay augmented LSTMs. {\it In preparation}
+
+\end{enumerate}
+
+\subsection*{Peer-reviewed articles}
+
+\begin{enumerate}
+
+\item \textbf{R.Maulik}, O.San: Numerical assessments of a parametric implicit large eddy simulation model, {\it Journal of Computational and Applied Mathematics} (forthcoming).
+
+\item \textbf{R. Maulik}, O. San, J. Jacob, C. Crick: Online turbulence model classification for large eddy simulation using deep learning, {\it Journal of Fluid Mechanics}, 870, 784-812, 2019.
+
+\item O.San, \textbf{R. Maulik}, M. Ahmed: An artificial neural network framework for reduced order modeling of transient flows, {\it Communications in Nonlinear Science and Numerical Simulation}, 77, 271-287, 2019.
+
+\item \textbf{R. Maulik}, O. San, A. Rasheed, P. Vedula: Subgrid modeling for two-dimensional turbulence using artificial neural networks, {\it Journal of Fluid Mechanics}, 858, 122-144, 2019.
+
+\item \textbf{R. Maulik}, O. San, A. Rasheed, P. Vedula: Data-driven deconvolution for large eddy simulation of Kraichnan turbulence, {\it Physics of Fluids}, 30, 125109, 2018.
+
+\item O.San, \textbf{R.Maulik}: Stratified Kelvin-Helmholtz turbulence of compressible shear flows, {\it Nonlinear Processes in Geophysics}, 25, 457--476, 2018.
+ 
+\item O.San, \textbf{R.Maulik}: Extreme learning machine for reduced order modeling of turbulent geophysical flows, {\it Physical Review E}, 97, 042322, 2018.
+
+\item O.San, \textbf{R.Maulik}: Machine learning closures for model order reduction of thermal fluids,  {\it Applied Mathematical Modelling}, https://doi.org/10.1016/j.apm.2018.03.037, 2018.
+
+\item \textbf{R.Maulik}, O.San, R. Behera : An adaptive multilevel wavelet framework for scale-selective WENO reconstruction schemes, {\it International Journal of Numerical Methods in Fluids},\\ https://doi.org/10.1002/fld.4489, 2018.
+
+\item O.San, \textbf{R.Maulik}: Neural network closure models for nonlinear model order reduction, {\it Advances in Computational Mathematics}, https://doi.org/10.1007/s1044, 2018.
+
+\item \textbf{R.Maulik}, O.San: A neural network approach for the blind deconvolution of turbulent flows, {\it Journal of Fluid Mechanics}, 831, 151-181, 2017.
+
+\item \textbf{R.Maulik}, O.San: A novel dynamic framework for subgrid-scale parametrization of mesoscale eddies in quasigeostrophic turbulent flows, {\it Computers and Mathematics with Applications}, 74, 420-445, 2017.
+
+\item \textbf{R.Maulik}, O.San: Explicit and implicit LES closures for Burgers turbulence, {\it Journal of Computational and Applied Mathematics}, 327, 12-40, 2017.
+
+\item \textbf{R.Maulik}, O.San: Resolution and Energy Dissipation Characteristics of Implicit LES and Explicit Filtering Models for Compressible Turbulence, {\it Fluids}, 2(2)-14, 2017.
+
+\item \textbf{R.Maulik}, O.San: A dynamic subgrid-scale modeling framework for Boussinesq turbulence, {\it International Journal of Heat and Mass Transfer}, 108, 1656-1675, 2017.
+
+\item \textbf{R.Maulik}, O.San: A dynamic framework for scale-aware parameterizations of eddy viscosity coefficient in two-dimensional turbulence, {\it International Journal of Computational Fluid Dynamics}, 31(2), 69-92, 2017.
+
+\item \textbf{R.Maulik}, O.San: A stable and scale-aware dynamic modeling framework for subgrid-scale parameterizations of two-dimensional turbulence, {\it Computers \& Fluids} 158, 11-38, 2016.
+
+\item \textbf{R.Maulik}, O.San: Dynamic modeling of the horizontal eddy viscosity coefficient for quasigeostrophic ocean circulation problems, {\it Journal of Ocean Engineering and Science} 1, 300-324, 2016.
+
+\item H. H. Marbini, \textbf{R. Maulik}: A biphasic transversely isotropic poroviscoelastic model for the unconfined compression of hydrated soft tissue, {\it Journal of Biomechanical Engineering} 138, 031003, 2016.
+
+\end{enumerate}
+
+\subsection*{Workshop participation}
+
+\begin{enumerate}
+
+    \item Invited participant, US-Japan Workshop on Data-Driven Fluid Dynamics, Kobe, Japan, 2020
+    
+    \item Invited participant, Department of Energy - AI for Science Townhall, Argonne National Laboratory, June 2019
+    
+    \item Invited participant, Advances in PDEs: Theory, Computation and Application to CFD, ICERM, Brown University, RI, 2018
+
+    \item Invited participant, SDSC Summer program in HPC and Data Science, UC San Diego, 2017
+\end{enumerate}
+
+\subsection*{Contributed talks}
+
+\begin{enumerate}
+
+\item \textbf{R. Maulik}, B. Lusch, O. San, P. Balaprakash: Data-driven sub-grid models for the large-eddy simulation of turbulence, Invited talk at John Zink Hamworthy Combustion Tulsa, 2019.
+
+\item \textbf{R. Maulik}, H. Sharma, S. Patel, E. Jennings, B. Lusch, P. Balaprakash, V. Vishwanath: Novel turbulence closures using physics-informed machine learning, Argonne Physical Sciences and Engineering Division, AI Townhall 2019. 
+
+\item \textbf{R.Maulik}, O.San, A. Rasheed, P. Vedula: Data-driven deconvolution for the sub-grid modeling of large eddy simulations of two-dimensional turbulence, SIAM-CSE, 2019.
+
+\item \textbf{R.Maulik}, O.San, A. Rasheed, P. Vedula: Data-driven deconvolution for the large eddy simulation of Kraichnan turbulence, Bulletin of the American Physical Society 71, 2018.
+
+\item \textbf{R.Maulik}, O.San, C. Bach: A computational investigation of the effect of ground clearance in vertical ducting systems, 2018, Purdue University, Herrick Labs Conferences 2018. 
+
+\item \textbf{R.Maulik}, O.San: A neural network approach for the blind deconvolution of turbulent flows, Bulletin of the American Physical Society 70, 2017.
+
+\item \textbf{R.Maulik}, Ratikanta Behera, O.San: A generalized wavelet based grid-adaptive and scale-selective
+implementation of WENO schemes for conservation laws, Texas Applied Mathematics and Engineering Symposium 2017, The University of Texas, Austin.
+
+\item \textbf{R.Maulik}, O.San: An explicit filtering framework based on Perona-Malik anisotropic diffusion for shock capturing and subgrid scale modeling of Burgers' turbulence,  Bulletin of the American Physical Society 69, 2016.
+
+\item \textbf{R.Maulik}, O.San:  A dynamic hybrid subgrid-scale modeling framework for large eddy simulations,  Bulletin of the American Physical Society 69, 2016.
+
+\item O.San, \textbf{R.Maulik}: A dynamic framework for subgrid-scale parametrization of mesoscale eddies in geophysical flows,  Bulletin of the American Physical Society 69, 2016.
+
+\end{enumerate}
+
+\section*{Honors \& awards}
+
+\begin{itemize}
+
+\item 3\textsuperscript{rd} Margaret Butler Fellow, Argonne Leadership Computing Facility, Argonne National Laboratory.
+
+\item Best oral presentation, 2\textsuperscript{nd} MAE Graduate Research Symposium, Oklahoma State University, 2018
+
+\item SIAM Student Travel Award: 2019 SIAM Conference on Computational Science and Engineering, Spokane, WA, 2019.
+
+\item Outstanding Graduate Student, College of Engineering Architecture and Technology, Oklahoma State University, 2018
+
+\item Graduate College Robberson Summer Research Fellowship, Oklahoma State University, 2017
+
+\item FGSA Travel Award for Excellence in Graduate Research, American Physical Society, 2017
+
+\item SIAM TX-LA Travel Grant, Texas Applied Mathematics and Engineering Symposium, 2017
+
+\item Graduate Student Travel Grant, American Physical Society - Division of Fluid Dynamics, 2017
+
+\item Graduate Student Travel Grant, Graduate Program Student Government Authority, Oklahoma State University, 2017
+
+\item John Brammer Fellowship, Oklahoma State University, 2016
+
+\item Graduate College Top Tier Fellowship, Oklahoma State University, 2016
+
+\item 7\textsuperscript{th} place in Worldsteel-SteelChallenge 8 - North American University Category, 2014.
+\end{itemize}
+
+\section*{Professional service \& outreach}
+
+\begin{itemize}
+    \item Reviewer - AIAA J., Comput. Physics Commun., Int. J. Comput. Fluid D., J. Fluid Mech., Phys. Fluids.
+    \item Program Committee - Argonne Data Science Project allocations : Reviewed allocation requests for 21 million core hours and 190 TB storage.
+    \item Co-organizer - Argonne National Laboratory - AI, Statistics and Machine Learning Journal Club
+    \item Session chair - SIAM Conference on Computational Science and Engineering, Spokane, WA, 2019.
+    \item Session chair - 2\textsuperscript{nd} MAE Graduate Research Symposium, Oklahoma State University, 2018.
+    \item Organizer \& Lecturer - 2-day TensorFlow workshop, Mechanical \& Aerospace Engineering, 2018
+    \item Organizer - National Lab Day outreach, Computational Fluid Dynamics Laboratory, Oklahoma State University 2017, 2018.
+    \item Tutorial lead - Statistical methods for machine learning, ALCF AI4Science tutorial, Argonne National Laboratory.
+    
+\end{itemize}
+
+\bigskip
+
+% Footer
+%\begin{center}
+%  \begin{footnotesize}
+%    Last updated: \today \\
+%    \href{\footerlink}{\texttt{\footerlink}}
+%  \end{footnotesize}
+%\end{center}
+
+\end{document}
