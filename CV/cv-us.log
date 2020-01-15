@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.16)  15 JAN 2020 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.16)  15 JAN 2020 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -323,7 +323,7 @@ Overfull \hbox (8.95493pt too wide) in paragraph at lines 140--141
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 188.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 190.
  [2]
 Overfull \hbox (1.39484pt too wide) in paragraph at lines 215--216
 []\T1/pplj/b/n/10 R.Maulik\T1/pplj/m/n/10 , O.San: Dy-namic mod-el-ing of the h
@@ -342,8 +342,8 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
  ) 
 Here is how much of TeX's memory you used:
- 5750 strings out of 492982
- 83579 string characters out of 6134896
+ 5749 strings out of 492982
+ 83572 string characters out of 6134896
  170348 words of memory out of 5000000
  9191 multiletter control sequences out of 15000+600000
  37725 words of font info for 62 fonts, out of 8000000 for 9000
@@ -356,10 +356,10 @@ pl/fplrij8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (6 pages, 102434 bytes).
+Output written on cv-us.pdf (6 pages, 102345 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 132 compressed objects within 2 object streams
- 76 named destinations out of 1000 (max. 500000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
+ 75 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
