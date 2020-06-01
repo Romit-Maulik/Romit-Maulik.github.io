@@ -1,56 +1,108 @@
 <!DOCTYPE html>
-<html>
+<!--
+    Plain-Academic by Vasilios Mavroudis
+    Released under the  Simplified BSD License/FreeBSD (2-clause) License.
+    https://github.com/mavroudisv/plain-academic
+-->
 
-<!-- This is how you add interal comments !-->
-
+<html lang="en">
 <head>
-	<title>Romit Maulik - Personal Webpage</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+  <title>Romit Maulik</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 </head>
-
-
 <body>
-  <!-- Wrap all page content here -->
-  <div id="wrap">
-    <!-- Navbar header -->
-    <nav class="navbar navbar-default">
-  <div class="container">
-    <div class="navbar-header">
-      <!-- <a class="navbar-brand" href="index.html"><i class="fa fa-home"></i></a> -->
-      <a class="navbar-brand" href="mailto:rmaulik@anl.gov"><i class="fa fa-envelope ai-2x"></i></a>
-  	  <a class="navbar-brand" href="https://www.linkedin.com/in/romit-maulik-cfd"><i class="fa fa-linkedin ai-2x"></i></a>
-      <a class="navbar-brand" href="https://scholar.google.com/citations?user=8XB99h4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-      <a class="navbar-brand" href="https://www.researchgate.net/profile/Romit_Maulik"><i class="ai ai-researchgate-square ai-2x"></i></a>
-      <a class="navbar-brand" href="https://github.com/Romit-Maulik"><i class="fa fa-github ai-2x"></i></a>
+
+<!-- Navigation -->
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+        <ul class="nav navbar-nav">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="research.html">Research & Outreach</a></li>
+              <li><a href="publications.html">Publications</a></li>
+              <li><a href="talks.html">Talks</a></li>
+              <li><a href="CV/cv-us.pdf">CV</a></li> 
+        </ul>
+      </div>
+    </nav>
+    
+
+  
+  <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Entries Column -->
+            <div class="col-md-8" style="height: 100vh;">
+                
+                <!-- Main Image -->
+                <img class="img-responsive" src="Profile_pics.jpeg" alt="Gauss protects me when I'm concentrating" width="350" height="150"><br>
+                
+                <div style="margin-top:3%; text-align:justify;">                
+                    <p> I am a postdoctoral fellow at the Advanced Leadership Computing Facility (ALCF) at Argonne National Laboratory where I work with Dr. <a href="https://scholar.google.com/citations?user=ZycQHdgAAAAJ&hl=en">Prasanna Balaprakash</a> and Dr. <a href="http://scholar.google.com/citations?user=obx7RXoAAAAJ&hl=en">Bethany Lusch</a> on scalable machine learning development for computational physics applications. This includes, but is not limited to, data-driven closure modeling for practical computational fluid dynamics applications, surrogate modeling for advection-dominated problems and for computational chemistry. In addition, I am also associated with the <a href="https://github.com/deephyper/deephyper">DeepHyper</a> project at Argonne for scalable asynchronous neural architecture and hyperparameter search for deep neural networks. </p>
+                    
+                    <p> My doctoral adviser was Dr. <a href="https://scholar.google.com/citations?hl=en&user=MrS0c8MAAAAJ">Omer San</a>, PI at the <a href="http://www.cfdlab.org">Computational Fluid Dynamics Laboratory</a> at Oklahoma State University where we endeavored to investigate elegant combinations of machine learning algorithms and physics based models for computational physics applications. My research dealt with the development of closure models for large eddy simulations of turbulence.  In addition, I was also involved with the development of closures for reduced-order models for high-dimensional systems analogous to LES. </p>
+
+                    <p> If you're interested in a high-level overview of my research, without having to read my papers - check out <a href="https://zoom.us/rec/play/upR5cLz6rjo3HtOTtgSDAvMoW424KKms0nJN-aEEz0a9VCZXMFPwZeFGZLaPUH-stOtRUk4zYQckIhLQ?continueMode=true&_x_zm_rtaid=eNCXDy6iQQ-T3ydgkS7G8A.1590985795651.e85a79e87f7bd2523f1473750236a1ab&_x_zm_rhtaid=111">this</a> recording of a recent talk. The password for accessing the material is "9r%gAp.z".
+                      
+
+                    </p>
+
+                </div>
+
+            </div> 
+
+            <!-- Contact Info on the Sidebar -->
+            <div class="col-md-4">
+                <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>Romit Maulik</b></div><br>
+                <p><b>rmaulik@anl.gov</b><br>
+                <p>Margaret Butler Postdoctoral Fellow<br>
+                Argonne Leadership Computing Facility<br>
+                240, Argonne National Laboratory<br>
+                Lemont, IL-60439, USA.<br>
+                </p>
+            </div>
+            
+            
+            <!-- Links on the Sidebar -->
+            <div class="col-md-4" style="margin-top:2%">
+              <a href="https://scholar.google.com/citations?user=8XB99h4AAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai-3x"></i></a>
+              <a href="https://www.linkedin.com/in/romit-maulik-cfd"><i class="fa fa-linkedin ai-3x"></i></a>
+              <a href="https://www.researchgate.net/profile/Romit_Maulik"><i class="ai ai-researchgate-square ai-3x"></i></a>
+              <a href="https://github.com/Romit-Maulik"><i class="fa fa-github ai-3x"></i></a>
+              <dd><a href="https://www.anl.gov/profile/romit-maulik"><img src="ANL.png" width=160/></a></dd>
+              
+
+            </div>
+            
+            
+            <!-- Publications -->
+<!--             <div class="col-md-8" style="height: 100vh;">    
+                <h2 id="publications">Publications</h2>
+                
+                <strong>Peer-reviewed</strong><br/>
+                <ul>
+                <li class="paper" words="add, your, keywords, here"><a href="#">Full title</a> Names of the authors</li>
+                </ul>
+            </div> -->
+
+            
+        </div>
+
+
     </div>
-  </div>
-</nav>
-
-<h1> Romit Maulik</h1>
-<h2> Margaret Butler Postdoctoral Fellow, ALCF, Argonne National Laboratory </h2>
-
-<h3><i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i> - Sir Isaac Newton.</h3>
-
-<p> <img src="Profile_pics.jpeg" width="600" height="450"> </p>
-
-<p> I am a postdoctoral fellow at the Advanced Leadership Computing Facility (ALCF) at Argonne National Laboratory where I work with Dr. <a href="https://scholar.google.com/citations?user=ZycQHdgAAAAJ&hl=en">Prasanna Balaprakash</a> and Dr. <a href="http://scholar.google.com/citations?user=obx7RXoAAAAJ&hl=en">Bethany Lusch</a> on scalable machine learning development for computational physics applications. This includes, but is not limited to, data-driven closure modeling for practical computational fluid dynamics applications, surrogate modeling for advection-dominated problems and for computational chemistry. In addition, I am also associated with the <a href="https://github.com/deephyper/deephyper">DeepHyper</a> project at Argonne for scalable asynchronous neural architecture and hyperparameter search for deep neural networks. </p>
-
-<p> My doctoral adviser was Dr. <a href="https://scholar.google.com/citations?hl=en&user=MrS0c8MAAAAJ">Omer San</a>, PI at the <a href="http://www.cfdlab.org">Computational Fluid Dynamics Laboratory</a> at Oklahoma State University where we endeavored to investigate elegant combinations of machine learning algorithms and physics based models for computational physics applications. My research dealt with the development of closure models for large eddy simulations of turbulence.  In addition, I was also involved with the development of closures for reduced-order models for high-dimensional systems analogous to LES. </p>
-
-<p>
-  You may find more information about my background and research interests, along with a list of publications <a href="CV/cv-us.pdf">here</a>. Feel free to email me for further questions about my research and for code-requests.
-</p>
-
-<!-- <h2>Gauss</h2>
-
-<p>I decided to name my cat Gauss, after picking him up from the shelter due to his intense curiosity about everything around him. He loves sniffing around and contemplating his surroundings, much like his medieval counterpart did with mathematics and the natural sciences. He's a smart guy isn't he?</p> -->
-
-<br>
-
-
+    <!-- /.container -->
+    
+    <!-- Other people may like it too! -->
+    <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic">Plain Academic</a> 
+    
 </body>
-
-
 
 </html>
