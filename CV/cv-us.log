@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.14)  20 AUG 2022 23:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.14)  22 AUG 2022 11:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -413,7 +413,7 @@ t/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatin
 o/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (12 pages, 146560 bytes).
+Output written on cv-us.pdf (12 pages, 146507 bytes).
 PDF statistics:
  331 PDF objects out of 1000 (max. 8388607)
  256 compressed objects within 3 object streams
