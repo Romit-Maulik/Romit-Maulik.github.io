@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  20 SEP 2023 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  2 OCT 2023 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,7 +359,14 @@ Overfull \hbox (5.18074pt too wide) in paragraph at lines 230--231
 win-ner in Com-puter Sci-ence category-
  []
 
-[3] [4]
+[3]
+Overfull \hbox (8.77293pt too wide) in paragraph at lines 268--269
+\T1/pplj/m/n/10 for in-ter-pretable sci-en-tific ma-chine learn-ing, \T1/pplj/m
+/it/10 Ac-cepted, Jour-nal of Com-pu-ta-tional Physics, arXiv:2302.06186\T1/ppl
+j/m/n/10 . 
+ []
+
+[4]
 Overfull \hbox (4.94484pt too wide) in paragraph at lines 320--321
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
@@ -431,7 +438,7 @@ s/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (14 pages, 163421 bytes).
+Output written on cv-us.pdf (14 pages, 163464 bytes).
 PDF statistics:
  394 PDF objects out of 1000 (max. 8388607)
  308 compressed objects within 4 object streams
