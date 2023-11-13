@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  11 NOV 2023 20:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  13 NOV 2023 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,14 +340,15 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 185.
+ [2]
 Overfull \hbox (7.73476pt too wide) in paragraph at lines 186--187
 []\T1/pplj/m/n/10 (Finished, 2021) Sam-baWF: Highly re-solved sur-ro-gate mod-e
 ls for weather fore-cast-ing, LDRD-Expedition,
  []
 
-LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 188.
-[2]
+
 Overfull \hbox (4.51476pt too wide) in paragraph at lines 230--231
 []\T1/pplj/m/n/10 Janah Richard-son, High-school stu-dent, Afro-Academic, Cul-t
 ural, Tech-no-log-i-cal and Sci-en-tific Olympics
@@ -438,7 +439,7 @@ s/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (14 pages, 163967 bytes).
+Output written on cv-us.pdf (14 pages, 164242 bytes).
 PDF statistics:
  398 PDF objects out of 1000 (max. 8388607)
  312 compressed objects within 4 object streams
