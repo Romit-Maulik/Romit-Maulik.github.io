@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.25)  6 JUL 2024 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.25)  6 JUL 2024 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -405,14 +405,7 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
  []
 
-[9]
-Overfull \hbox (6.29485pt too wide) in paragraph at lines 480--481
-[]\T1/pplj/m/n/10 Differentiable physics for tur-bu-lence clo-sure mod-el-ing f
-rom data, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Uni-ver-sity of Marlya
-nd
- []
-
-[10] [11] [12] [13]
+[9] [10] [11] [12] [13]
 Overfull \hbox (13.85397pt too wide) in paragraph at lines 651--652
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
@@ -445,7 +438,7 @@ mf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts
 /fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (16 pages, 175200 bytes).
+Output written on cv-us.pdf (16 pages, 175204 bytes).
 PDF statistics:
  436 PDF objects out of 1000 (max. 8388607)
  341 compressed objects within 4 object streams
