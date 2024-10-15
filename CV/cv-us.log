@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  12 OCT 2024 00:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  15 OCT 2024 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,26 +395,26 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
  []
 
 [10]
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 506--507
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 508--509
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
  []
 
 [11] [12] [13] [14]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 673--674
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 675--676
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
-[15]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 716--717
+[15] [16]
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 718--719
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
  []
 
-[16] [17] (./cv-us.aux)
+[17] (./cv-us.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -424,9 +424,9 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9329 strings out of 474116
- 142017 string characters out of 5743682
+ 142010 string characters out of 5743682
  1940187 words of memory out of 5000000
- 31349 multiletter control sequences out of 15000+600000
+ 31348 multiletter control sequences out of 15000+600000
  589839 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,844b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -438,10 +438,10 @@ live/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/20
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (17 pages, 198190 bytes).
+Output written on cv-us.pdf (17 pages, 198477 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 365 compressed objects within 4 object streams
- 226 named destinations out of 1000 (max. 500000)
+ 405 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 227 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
