@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  15 OCT 2024 15:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  15 OCT 2024 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,6 +394,13 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
  []
 
+
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 502--503
+[]\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
+ ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
+ligence
+ []
+
 [10]
 Overfull \hbox (6.75485pt too wide) in paragraph at lines 508--509
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
@@ -438,7 +445,7 @@ live/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/20
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (17 pages, 198477 bytes).
+Output written on cv-us.pdf (17 pages, 198435 bytes).
 PDF statistics:
  405 PDF objects out of 1000 (max. 8388607)
  366 compressed objects within 4 object streams
