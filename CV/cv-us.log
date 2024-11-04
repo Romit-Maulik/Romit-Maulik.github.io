@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  1 NOV 2024 11:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  3 NOV 2024 20:00
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **cv-us.tex
 (./cv-us.tex
@@ -369,19 +368,19 @@ win-ner in Com-puter Sci-ence category-
  []
 
 [4] [5] [6]
-Overfull \hbox (4.94484pt too wide) in paragraph at lines 370--371
+Overfull \hbox (4.94484pt too wide) in paragraph at lines 368--369
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
 522,
  []
 
-[7] [8]
-Overfull \hbox (5.81485pt too wide) in paragraph at lines 430--431
+[7]
+Overfull \hbox (5.81485pt too wide) in paragraph at lines 428--429
 []\T1/pplj/b/n/10 R. Maulik\T1/pplj/m/n/10 , O. San: Dy-namic mod-el-ing of the
  hor-i-zon-tal eddy vis-cos-ity co-ef-fi-cient for quasi-geostrophic
  []
 
-[9]
+[8] [9]
 Overfull \hbox (15.49419pt too wide) in paragraph at lines 490--491
 \T1/pplj/m/it/10 with Ma-chine Learn-ing Work-shop, NeurIPS\T1/pplj/m/n/10 , 20
 20. [][]$\T1/cmtt/m/n/10 https : / / www . climatechange . ai / papers / neurip
@@ -431,25 +430,26 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9331 strings out of 474116
- 142026 string characters out of 5743682
+ 9332 strings out of 474116
+ 142032 string characters out of 5743682
  1939187 words of memory out of 5000000
  31348 multiletter control sequences out of 15000+600000
- 589839 words of font info for 83 fonts, out of 8000000 for 9000
+ 590198 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,844b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/tex
-live/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/20
-24/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2024
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-
-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fo
-nts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (17 pages, 199051 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texl
+ive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
+4/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2024/
+texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-d
+ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fon
+ts/type1/urw/palatino/uplri8a.pfb>
+Output written on cv-us.pdf (17 pages, 207532 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 369 compressed objects within 4 object streams
+ 413 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
  229 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
