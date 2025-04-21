@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  20 APR 2025 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  21 APR 2025 00:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -409,13 +409,13 @@ Overfull \hbox (6.75485pt too wide) in paragraph at lines 561--562
 athon,
  []
 
-[12] [13] [14] [15] [16]
+[12] [13] [14] [15]
 Overfull \hbox (13.85397pt too wide) in paragraph at lines 718--719
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
-[17]
+[16] [17]
 Overfull \hbox (5.82631pt too wide) in paragraph at lines 761--762
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
@@ -433,11 +433,11 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 Here is how much of TeX's memory you used:
  9348 strings out of 474116
  142159 string characters out of 5743682
- 1940187 words of memory out of 5000000
+ 1939187 words of memory out of 5000000
  31348 multiletter control sequences out of 15000+600000
  590198 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,844b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,844b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/lo
@@ -447,7 +447,7 @@ ive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (18 pages, 213046 bytes).
+Output written on cv-us.pdf (18 pages, 212708 bytes).
 PDF statistics:
  436 PDF objects out of 1000 (max. 8388607)
  394 compressed objects within 4 object streams
