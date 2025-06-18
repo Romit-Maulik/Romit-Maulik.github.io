@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  21 MAY 2025 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  18 JUN 2025 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -369,54 +369,54 @@ win-ner in Com-puter Sci-ence category-
  []
 
 [4] [5] [6]
-Overfull \hbox (4.94484pt too wide) in paragraph at lines 385--386
+Overfull \hbox (4.94484pt too wide) in paragraph at lines 387--388
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
 522,
  []
 
 [7] [8]
-Overfull \hbox (5.81485pt too wide) in paragraph at lines 445--446
+Overfull \hbox (5.81485pt too wide) in paragraph at lines 447--448
 []\T1/pplj/b/n/10 R. Maulik\T1/pplj/m/n/10 , O. San: Dy-namic mod-el-ing of the
  hor-i-zon-tal eddy vis-cos-ity co-ef-fi-cient for quasi-geostrophic
  []
 
 [9] [10]
-Overfull \hbox (15.49419pt too wide) in paragraph at lines 521--522
+Overfull \hbox (15.49419pt too wide) in paragraph at lines 523--524
 \T1/pplj/m/it/10 with Ma-chine Learn-ing Work-shop, NeurIPS\T1/pplj/m/n/10 , 20
 20. [][]$\T1/cmtt/m/n/10 https : / / www . climatechange . ai / papers / neurip
 s2020 /
  []
 
 
-Overfull \hbox (1.93857pt too wide) in paragraph at lines 523--524
+Overfull \hbox (1.93857pt too wide) in paragraph at lines 525--526
 \T1/pplj/m/it/10 shop, NeurIPS\T1/pplj/m/n/10 , 2020. [][]$\T1/cmtt/m/n/10 http
 s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
  []
 
 [11]
-Overfull \hbox (5.13486pt too wide) in paragraph at lines 569--570
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 571--572
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
 ligence
  []
 
 [12]
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 575--576
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 577--578
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
  []
 
 [13] [14] [15] [16]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 732--733
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 734--735
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
 [17]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 775--776
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 777--778
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
@@ -431,8 +431,8 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9353 strings out of 474116
- 142199 string characters out of 5743682
+ 9354 strings out of 474116
+ 142207 string characters out of 5743682
  1940187 words of memory out of 5000000
  31348 multiletter control sequences out of 15000+600000
  590198 words of font info for 84 fonts, out of 8000000 for 9000
@@ -447,10 +447,10 @@ ive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (18 pages, 214010 bytes).
+Output written on cv-us.pdf (18 pages, 214297 bytes).
 PDF statistics:
- 442 PDF objects out of 1000 (max. 8388607)
- 400 compressed objects within 4 object streams
- 250 named destinations out of 1000 (max. 500000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
+ 251 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
