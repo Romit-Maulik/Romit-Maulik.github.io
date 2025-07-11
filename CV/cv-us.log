@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  8 JUL 2025 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.24)  11 JUL 2025 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,81 +342,86 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2024
 /texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+Overfull \hbox (1.51476pt too wide) in paragraph at lines 183--184
+[]\T1/pplj/m/n/10 (Active, 2025-2028) Syn-er-gis-tic study of de-for-ma-tion si
+g-nals and volcano-tectonic earth-quakes at Mauna
+ []
+
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 186.
- [2]
-Overfull \hbox (6.25476pt too wide) in paragraph at lines 191--192
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 187.
+[2]
+Overfull \hbox (6.25476pt too wide) in paragraph at lines 193--194
 []\T1/pplj/m/n/10 (Active, 2024-2027) Us-ing Ma-chine Learn-ing to Un-cover Dee
 p Con-vec-tive Cloud Pro-cesses with TRACER
  []
 
 
-Overfull \hbox (7.73476pt too wide) in paragraph at lines 209--210
+Overfull \hbox (7.73476pt too wide) in paragraph at lines 207--208
 []\T1/pplj/m/n/10 (Finished, 2021) Sam-baWF: Highly re-solved sur-ro-gate mod-e
 ls for weather fore-cast-ing, LDRD-Expedition,
  []
 
 [3]
-Overfull \hbox (4.51476pt too wide) in paragraph at lines 265--266
+Overfull \hbox (4.51476pt too wide) in paragraph at lines 263--264
 []\T1/pplj/m/n/10 Janah Richard-son, High-school stu-dent, Afro-Academic, Cul-t
 ural, Tech-no-log-i-cal and Sci-en-tific Olympics
  []
 
 
-Overfull \hbox (5.18074pt too wide) in paragraph at lines 265--266
+Overfull \hbox (5.18074pt too wide) in paragraph at lines 263--264
 \T1/pplj/m/n/10 (ACT-SO) High School Re-search Pro-gram, 2020-2021. Gold medal 
 win-ner in Com-puter Sci-ence category-
  []
 
 [4] [5] [6]
-Overfull \hbox (4.94484pt too wide) in paragraph at lines 393--394
+Overfull \hbox (4.94484pt too wide) in paragraph at lines 391--392
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
 522,
  []
 
 [7] [8]
-Overfull \hbox (5.81485pt too wide) in paragraph at lines 453--454
+Overfull \hbox (5.81485pt too wide) in paragraph at lines 451--452
 []\T1/pplj/b/n/10 R. Maulik\T1/pplj/m/n/10 , O. San: Dy-namic mod-el-ing of the
  hor-i-zon-tal eddy vis-cos-ity co-ef-fi-cient for quasi-geostrophic
  []
 
 [9] [10]
-Overfull \hbox (15.49419pt too wide) in paragraph at lines 529--530
+Overfull \hbox (15.49419pt too wide) in paragraph at lines 527--528
 \T1/pplj/m/it/10 with Ma-chine Learn-ing Work-shop, NeurIPS\T1/pplj/m/n/10 , 20
 20. [][]$\T1/cmtt/m/n/10 https : / / www . climatechange . ai / papers / neurip
 s2020 /
  []
 
 
-Overfull \hbox (1.93857pt too wide) in paragraph at lines 531--532
+Overfull \hbox (1.93857pt too wide) in paragraph at lines 529--530
 \T1/pplj/m/it/10 shop, NeurIPS\T1/pplj/m/n/10 , 2020. [][]$\T1/cmtt/m/n/10 http
 s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
  []
 
 [11] [12]
-Overfull \hbox (5.13486pt too wide) in paragraph at lines 579--580
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 577--578
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
 ligence
  []
 
 
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 585--586
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 583--584
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
  []
 
 [13] [14] [15] [16]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 742--743
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 740--741
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
 [17] [18]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 785--786
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 783--784
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
@@ -433,7 +438,7 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 Here is how much of TeX's memory you used:
  9357 strings out of 474116
  142230 string characters out of 5743682
- 1940187 words of memory out of 5000000
+ 1939187 words of memory out of 5000000
  31348 multiletter control sequences out of 15000+600000
  590198 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -447,7 +452,7 @@ ive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (19 pages, 215837 bytes).
+Output written on cv-us.pdf (19 pages, 215899 bytes).
 PDF statistics:
  453 PDF objects out of 1000 (max. 8388607)
  409 compressed objects within 5 object streams
