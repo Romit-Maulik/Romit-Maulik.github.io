@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 NOV 2025 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 NOV 2025 20:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -364,27 +364,27 @@ ls for weather fore-cast-ing, LDRD-Expedition,
 
 
 [3]
-Overfull \hbox (4.51476pt too wide) in paragraph at lines 274--275
+
+[4]
+Overfull \hbox (4.51476pt too wide) in paragraph at lines 280--281
 []\T1/pplj/m/n/10 Janah Richard-son, High-school stu-dent, Afro-Academic, Cul-t
 ural, Tech-no-log-i-cal and Sci-en-tific Olympics
  []
 
 
-Overfull \hbox (5.18074pt too wide) in paragraph at lines 274--275
+Overfull \hbox (5.18074pt too wide) in paragraph at lines 280--281
 \T1/pplj/m/n/10 (ACT-SO) High School Re-search Pro-gram, 2020-2021. Gold medal 
 win-ner in Com-puter Sci-ence category-
  []
 
 
 
-[4]
-
 [5]
 
 [6]
 
 [7]
-Overfull \hbox (4.94484pt too wide) in paragraph at lines 406--407
+Overfull \hbox (4.94484pt too wide) in paragraph at lines 412--413
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
 522,
@@ -395,7 +395,7 @@ Overfull \hbox (4.94484pt too wide) in paragraph at lines 406--407
 [8]
 
 [9]
-Overfull \hbox (5.81485pt too wide) in paragraph at lines 466--467
+Overfull \hbox (5.81485pt too wide) in paragraph at lines 472--473
 []\T1/pplj/b/n/10 R. Maulik\T1/pplj/m/n/10 , O. San: Dy-namic mod-el-ing of the
  hor-i-zon-tal eddy vis-cos-ity co-ef-fi-cient for quasi-geostrophic
  []
@@ -405,14 +405,14 @@ Overfull \hbox (5.81485pt too wide) in paragraph at lines 466--467
 [10]
 
 [11]
-Overfull \hbox (15.49419pt too wide) in paragraph at lines 548--549
+Overfull \hbox (15.49419pt too wide) in paragraph at lines 554--555
 \T1/pplj/m/it/10 with Ma-chine Learn-ing Work-shop, NeurIPS\T1/pplj/m/n/10 , 20
 20. [][]$\T1/cmtt/m/n/10 https : / / www . climatechange . ai / papers / neurip
 s2020 /
  []
 
 
-Overfull \hbox (1.93857pt too wide) in paragraph at lines 550--551
+Overfull \hbox (1.93857pt too wide) in paragraph at lines 556--557
 \T1/pplj/m/it/10 shop, NeurIPS\T1/pplj/m/n/10 , 2020. [][]$\T1/cmtt/m/n/10 http
 s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
@@ -423,14 +423,14 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 [12]
 
 [13]
-Overfull \hbox (5.13486pt too wide) in paragraph at lines 617--618
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 623--624
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
 ligence
  []
 
 
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 623--624
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 629--630
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
@@ -445,15 +445,15 @@ athon,
 [16]
 
 [17]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 780--781
+
+[18]
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 786--787
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
 
-
-[18]
-Overfull \hbox (14.56398pt too wide) in paragraph at lines 786--787
+Overfull \hbox (14.56398pt too wide) in paragraph at lines 792--793
 []\T1/pplj/m/n/10 Reviewer/Panelist - NSF-CISE, NASA-ESI, ARO-Multiscale In-for
 -ma-tion Fu-sion, DOE FES/ASCR/SCGSR,
  []
@@ -461,7 +461,7 @@ Overfull \hbox (14.56398pt too wide) in paragraph at lines 786--787
 
 
 [19]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 825--826
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 831--832
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
@@ -494,7 +494,7 @@ ive/2025/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (20 pages, 210937 bytes).
+Output written on cv-us.pdf (20 pages, 211259 bytes).
 PDF statistics:
  471 PDF objects out of 1000 (max. 8388607)
  426 compressed objects within 5 object streams
