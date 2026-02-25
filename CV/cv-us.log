@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  17 FEB 2026 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  24 FEB 2026 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,19 +344,19 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2025
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
 (Font)              Font shape `T1/pplj/m/it' tried instead on input line 182.
 [2]
-Overfull \hbox (1.51476pt too wide) in paragraph at lines 192--193
+Overfull \hbox (1.51476pt too wide) in paragraph at lines 194--195
 []\T1/pplj/m/n/10 (Active, 2025-2028) Syn-er-gis-tic study of de-for-ma-tion si
 g-nals and volcano-tectonic earth-quakes at Mauna
  []
 
 
-Overfull \hbox (6.25476pt too wide) in paragraph at lines 204--205
+Overfull \hbox (6.25476pt too wide) in paragraph at lines 206--207
 []\T1/pplj/m/n/10 (Active, 2024-2027) Us-ing Ma-chine Learn-ing to Un-cover Dee
 p Con-vec-tive Cloud Pro-cesses with TRACER
  []
 
 
-Overfull \hbox (7.73476pt too wide) in paragraph at lines 218--219
+Overfull \hbox (7.73476pt too wide) in paragraph at lines 220--221
 []\T1/pplj/m/n/10 (Finished, 2021) Sam-baWF: Highly re-solved sur-ro-gate mod-e
 ls for weather fore-cast-ing, LDRD-Expedition,
  []
@@ -366,19 +366,19 @@ ls for weather fore-cast-ing, LDRD-Expedition,
 [3]
 
 [4]
-Overfull \hbox (4.51476pt too wide) in paragraph at lines 292--293
+Overfull \hbox (4.51476pt too wide) in paragraph at lines 294--295
 []\T1/pplj/m/n/10 Janah Richard-son, High-school stu-dent, Afro-Academic, Cul-t
 ural, Tech-no-log-i-cal and Sci-en-tific Olympics
  []
 
 
-Overfull \hbox (5.18074pt too wide) in paragraph at lines 292--293
+Overfull \hbox (5.18074pt too wide) in paragraph at lines 294--295
 \T1/pplj/m/n/10 (ACT-SO) High School Re-search Pro-gram, 2020-2021. Gold medal 
 win-ner in Com-puter Sci-ence category-
  []
 
 
-Overfull \hbox (37.98483pt too wide) in paragraph at lines 307--308
+Overfull \hbox (37.98483pt too wide) in paragraph at lines 309--310
 \T1/pplj/m/n/10 Cli-mate Pro-jec-tions Us-ing Diffusion-Based Down-scal-ing of 
 a Lightweight Cli-mate Em-u-la-tor, \T1/pplj/m/it/10 arXiv:2602.13416\T1/pplj/m
 /n/10 . 
@@ -391,7 +391,7 @@ a Lightweight Cli-mate Em-u-la-tor, \T1/pplj/m/it/10 arXiv:2602.13416\T1/pplj/m
 [6]
 
 [7]
-Overfull \hbox (4.94484pt too wide) in paragraph at lines 428--429
+Overfull \hbox (4.94484pt too wide) in paragraph at lines 430--431
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
 522,
@@ -402,7 +402,7 @@ Overfull \hbox (4.94484pt too wide) in paragraph at lines 428--429
 [8]
 
 [9]
-Overfull \hbox (5.81485pt too wide) in paragraph at lines 488--489
+Overfull \hbox (5.81485pt too wide) in paragraph at lines 490--491
 []\T1/pplj/b/n/10 R. Maulik\T1/pplj/m/n/10 , O. San: Dy-namic mod-el-ing of the
  hor-i-zon-tal eddy vis-cos-ity co-ef-fi-cient for quasi-geostrophic
  []
@@ -412,14 +412,14 @@ Overfull \hbox (5.81485pt too wide) in paragraph at lines 488--489
 [10]
 
 [11]
-Overfull \hbox (15.49419pt too wide) in paragraph at lines 570--571
+Overfull \hbox (15.49419pt too wide) in paragraph at lines 572--573
 \T1/pplj/m/it/10 with Ma-chine Learn-ing Work-shop, NeurIPS\T1/pplj/m/n/10 , 20
 20. [][]$\T1/cmtt/m/n/10 https : / / www . climatechange . ai / papers / neurip
 s2020 /
  []
 
 
-Overfull \hbox (1.93857pt too wide) in paragraph at lines 572--573
+Overfull \hbox (1.93857pt too wide) in paragraph at lines 574--575
 \T1/pplj/m/it/10 shop, NeurIPS\T1/pplj/m/n/10 , 2020. [][]$\T1/cmtt/m/n/10 http
 s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
@@ -430,7 +430,7 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 [12]
 
 [13]
-Overfull \hbox (5.13486pt too wide) in paragraph at lines 641--642
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 643--644
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
 ligence
@@ -439,7 +439,7 @@ ligence
 
 
 [14]
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 647--648
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 649--650
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
@@ -454,13 +454,13 @@ athon,
 [17]
 
 [18]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 804--805
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 806--807
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
 
-Overfull \hbox (14.56398pt too wide) in paragraph at lines 810--811
+Overfull \hbox (14.56398pt too wide) in paragraph at lines 812--813
 []\T1/pplj/m/n/10 Reviewer/Panelist - NSF-CISE, NASA-ESI, ARO-Multiscale In-for
 -ma-tion Fu-sion, DOE FES/ASCR/SCGSR,
  []
@@ -468,7 +468,7 @@ Overfull \hbox (14.56398pt too wide) in paragraph at lines 810--811
 
 
 [19]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 849--850
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 851--852
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
@@ -501,7 +501,7 @@ ive/2025/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (20 pages, 212071 bytes).
+Output written on cv-us.pdf (20 pages, 212184 bytes).
 PDF statistics:
  474 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
