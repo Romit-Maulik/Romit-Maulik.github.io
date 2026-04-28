@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  10 APR 2026 10:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  28 APR 2026 09:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -372,7 +372,7 @@ win-ner in Com-puter Sci-ence category-
  []
 
 
-Overfull \hbox (37.98483pt too wide) in paragraph at lines 315--316
+Overfull \hbox (37.98483pt too wide) in paragraph at lines 317--318
 \T1/pplj/m/n/10 Cli-mate Pro-jec-tions Us-ing Diffusion-Based Down-scal-ing of 
 a Lightweight Cli-mate Em-u-la-tor, \T1/pplj/m/it/10 arXiv:2602.13416\T1/pplj/m
 /n/10 . 
@@ -387,7 +387,7 @@ a Lightweight Cli-mate Em-u-la-tor, \T1/pplj/m/it/10 arXiv:2602.13416\T1/pplj/m
 [7]
 
 [8]
-Overfull \hbox (4.94484pt too wide) in paragraph at lines 438--439
+Overfull \hbox (4.94484pt too wide) in paragraph at lines 440--441
 \T1/pplj/m/n/10 Gaus-sian pro-cesses for aero-dy-namic de-sign op-ti-miza-tion,
  \T1/pplj/m/it/10 Aerospace Sci-ence and Tech-nol-ogy\T1/pplj/m/n/10 , 111, 106
 522,
@@ -396,7 +396,7 @@ Overfull \hbox (4.94484pt too wide) in paragraph at lines 438--439
 
 
 [9]
-Overfull \hbox (5.81485pt too wide) in paragraph at lines 498--499
+Overfull \hbox (5.81485pt too wide) in paragraph at lines 500--501
 []\T1/pplj/b/n/10 R. Maulik\T1/pplj/m/n/10 , O. San: Dy-namic mod-el-ing of the
  hor-i-zon-tal eddy vis-cos-ity co-ef-fi-cient for quasi-geostrophic
  []
@@ -408,14 +408,14 @@ Overfull \hbox (5.81485pt too wide) in paragraph at lines 498--499
 [11]
 
 [12]
-Overfull \hbox (15.49419pt too wide) in paragraph at lines 582--583
+Overfull \hbox (15.49419pt too wide) in paragraph at lines 584--585
 \T1/pplj/m/it/10 with Ma-chine Learn-ing Work-shop, NeurIPS\T1/pplj/m/n/10 , 20
 20. [][]$\T1/cmtt/m/n/10 https : / / www . climatechange . ai / papers / neurip
 s2020 /
  []
 
 
-Overfull \hbox (1.93857pt too wide) in paragraph at lines 584--585
+Overfull \hbox (1.93857pt too wide) in paragraph at lines 586--587
 \T1/pplj/m/it/10 shop, NeurIPS\T1/pplj/m/n/10 , 2020. [][]$\T1/cmtt/m/n/10 http
 s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 20 _
@@ -426,14 +426,14 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 [13]
 
 [14]
-Overfull \hbox (5.13486pt too wide) in paragraph at lines 656--657
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 660--661
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
 ligence
  []
 
 
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 662--663
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 666--667
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
@@ -448,7 +448,7 @@ athon,
 [17]
 
 [18]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 819--820
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 823--824
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
@@ -456,7 +456,7 @@ ov/events/alcf-pythonfoam-workshop).
 
 
 [19]
-Overfull \hbox (14.56398pt too wide) in paragraph at lines 825--826
+Overfull \hbox (14.56398pt too wide) in paragraph at lines 829--830
 []\T1/pplj/m/n/10 Reviewer/Panelist - NSF-CISE, NASA-ESI, ARO-Multiscale In-for
 -ma-tion Fu-sion, DOE FES/ASCR/SCGSR,
  []
@@ -464,7 +464,7 @@ Overfull \hbox (14.56398pt too wide) in paragraph at lines 825--826
 
 
 [20]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 864--865
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 868--869
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
@@ -481,13 +481,13 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9484 strings out of 473190
- 143823 string characters out of 5715801
+ 9486 strings out of 473190
+ 143839 string characters out of 5715801
  551065 words of memory out of 5000000
  32350 multiletter control sequences out of 15000+600000
  590966 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,844b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,844b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/lo
@@ -497,10 +497,10 @@ ive/2025/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (21 pages, 213517 bytes).
+Output written on cv-us.pdf (21 pages, 213609 bytes).
 PDF statistics:
- 483 PDF objects out of 1000 (max. 8388607)
- 437 compressed objects within 5 object streams
- 275 named destinations out of 1000 (max. 500000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 440 compressed objects within 5 object streams
+ 277 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
