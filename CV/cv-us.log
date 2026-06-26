@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  15 JUN 2026 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  25 JUN 2026 23:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -426,14 +426,14 @@ s : / / ml4physicalsciences . github . io / 2020 / files / NeurIPS _ ML4PS _ 20
 [13]
 
 [14]
-Overfull \hbox (5.13486pt too wide) in paragraph at lines 670--671
+Overfull \hbox (5.13486pt too wide) in paragraph at lines 672--673
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , Param-Intel
 ligence
  []
 
 
-Overfull \hbox (6.75485pt too wide) in paragraph at lines 676--677
+Overfull \hbox (6.75485pt too wide) in paragraph at lines 678--679
 []\T1/pplj/m/n/10 Neural or-di-nary dif-fer-en-tial equa-tions for sci-en-tific
  ma-chine learn-ing, \T1/pplj/b/n/10 In-vited talk\T1/pplj/m/n/10 , AIGrid Hack
 athon,
@@ -450,13 +450,13 @@ athon,
 [18]
 
 [19]
-Overfull \hbox (13.85397pt too wide) in paragraph at lines 833--834
+Overfull \hbox (13.85397pt too wide) in paragraph at lines 835--836
 []\T1/pplj/m/n/10 PythonFOAM Work-shop Lead Or-ga-nizer (https://www.alcf.anl.g
 ov/events/alcf-pythonfoam-workshop). 
  []
 
 
-Overfull \hbox (14.56398pt too wide) in paragraph at lines 839--840
+Overfull \hbox (14.56398pt too wide) in paragraph at lines 841--842
 []\T1/pplj/m/n/10 Reviewer/Panelist - NSF-CISE, NASA-ESI, ARO-Multiscale In-for
 -ma-tion Fu-sion, DOE FES/ASCR/SCGSR,
  []
@@ -464,7 +464,7 @@ Overfull \hbox (14.56398pt too wide) in paragraph at lines 839--840
 
 
 [20]
-Overfull \hbox (5.82631pt too wide) in paragraph at lines 878--879
+Overfull \hbox (5.82631pt too wide) in paragraph at lines 880--881
 \T1/pplj/m/n/10 the SVD for Python us-ing mpi4py. [][]$\T1/cmtt/m/n/10 https : 
 / / github . com / Romit-[]Maulik / PyParSVD$[][]\T1/pplj/m/n/10 . DOI: 10.5281
 /zen-
@@ -481,13 +481,13 @@ Package rerunfilecheck Info: File `cv-us.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9488 strings out of 473190
- 143855 string characters out of 5715801
- 550065 words of memory out of 5000000
+ 9489 strings out of 473190
+ 143863 string characters out of 5715801
+ 551065 words of memory out of 5000000
  32350 multiletter control sequences out of 15000+600000
  590966 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,844b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,876b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/lo
@@ -497,10 +497,10 @@ ive/2025/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (21 pages, 214111 bytes).
+Output written on cv-us.pdf (21 pages, 214219 bytes).
 PDF statistics:
- 488 PDF objects out of 1000 (max. 8388607)
- 442 compressed objects within 5 object streams
- 279 named destinations out of 1000 (max. 500000)
+ 489 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
+ 280 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
