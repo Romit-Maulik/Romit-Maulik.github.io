@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  22 SEP 2026 12:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 SEP 2026 23:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -360,13 +360,6 @@ win-ner in Com-puter Sci-ence category-
 
 
 [4]
-Overfull \hbox (37.98483pt too wide) in paragraph at lines 349--350
-\T1/pplj/m/n/10 Cli-mate Pro-jec-tions Us-ing Diffusion-Based Down-scal-ing of 
-a Lightweight Cli-mate Em-u-la-tor, \T1/pplj/m/it/10 arXiv:2602.13416\T1/pplj/m
-/n/10 . 
- []
-
-
 
 [5]
 
@@ -483,7 +476,7 @@ ive/2025/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv-us.pdf (20 pages, 212724 bytes).
+Output written on cv-us.pdf (20 pages, 212754 bytes).
 PDF statistics:
  486 PDF objects out of 1000 (max. 8388607)
  441 compressed objects within 5 object streams
